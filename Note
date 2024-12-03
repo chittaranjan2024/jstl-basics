@@ -1,0 +1,30 @@
+JSTL: JSP Standard Tag Library
+IT is a collection of custom tags that provides many functionalities to
+JSP applications.
+
+i)Iterations and Conditionals
+ii)Formatting 
+iii)Internationalization
+iv)XML data processing
+v)Database access
+
+Advantages:
+i)Fast development
+ii)Code reusability
+iii)No need to use scriplet tag	
+
+JSTL Tags:
+i)Core Tags: Variable support, URL management, Flow control
+
+Ex: out, import, set, remove, if, choose, when
+ii)Function Tags: String manipulation
+iii)Formatting Tags:Message formatting, number formatting, date formatting
+iv)XML Tags: flow control, transformation
+v)SQL Tags: SQL support
+
+Servlet, JSP, JSTL
+
+Ant, Maven, Gradle - Build tools
+
+
+
